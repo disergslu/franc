@@ -27,7 +27,6 @@
     "Jeff Huijsmans <jeffhuys@gmail.com>"
   ],
   "sideEffects": false,
-  "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
