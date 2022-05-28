@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "franc",
+  "version": "0.0.1",
   "description": "Monorepo for franc packages",
   "license": "MIT",
   "repository": "https://github.com/wooorm/franc",
